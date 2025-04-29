@@ -41,7 +41,9 @@ except:
     print("Enter a valid input!")
 ```
 ## Output:
-![555555](https://github.com/user-attachments/assets/44dda912-8454-40bc-b127-f8037e2aec98)
+![Screenshot (848)](https://github.com/user-attachments/assets/e1f3b708-7cc1-4d99-91e9-c928e0dfea7b)
+![Screenshot (849)](https://github.com/user-attachments/assets/ad8cbcfa-70e5-485b-88b4-879ec8d35158)
+
 
 ## Result:
 Thus, the python program of binary search is implemented and the output is verified 
